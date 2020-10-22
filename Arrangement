@@ -1,4 +1,4 @@
-//Sidst redigeret: 22/10-20, 14:08
+//Sidst redigeret: 22/10-20, 21:40
 
 import java.io.*;
 import java.util.*;
@@ -83,3 +83,4 @@ public class Arrangement{
       }
    }
 }
+//Denne her er tilføjet for at se, hvordan det her virker.
