@@ -71,7 +71,7 @@ public class Arrangement{
    
    //Gemmer til en .txt-fil med et navn, som brugeren specificerer. Først skrivet et tal, som indikerer, hvor mange
    //events, der er i arrangementet. Dernæst kommer en værdier, der bruges som parametre i de forskellige
-   //konstruktorer. Værdierne er adskildt af semikolon, hcilket en scanner med en delimitor kan genkende.
+   //konstruktorer. Værdierne er adskildt af semikolon, hvilket en scanner med en delimitor kan genkende.
    public void saveArrangementToFile()throws FileNotFoundException{
       Scanner console = new Scanner(System.in);
       System.out.print("Enter file name. Exclude file extension: ");
